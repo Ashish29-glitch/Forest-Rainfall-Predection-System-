@@ -46,8 +46,8 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd "rain predection code edit"
+[https://github.com/Ashish29-glitch/Forest-Rainfall-Predection-System-.git]
+cd "rain predection code "
 ```
 
 ### Set up environment
